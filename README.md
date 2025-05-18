@@ -10,7 +10,7 @@ This project verifies a positive-edge triggered D Flip-Flop using a UVM-based te
 
 ## Project Structure
 - **RTL Design**
-  - `dff.sv` (assumed RTL design file)
+  - `design.sv` - design file
   
 - **UVM Components** (all `.svh` files)
   - `interface.svh` — Defines the interface for DFF signals
